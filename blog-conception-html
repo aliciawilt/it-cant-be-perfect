@@ -1,0 +1,43 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+<title>We made a web page :3</title>
+<style>
+h1{color: #ffbdb0;}
+h2{color: #7D2882;}
+p {color: #db7563;}
+li {color: #18586e;}
+a {color: #540606;}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bitmaks/cm-web-fonts@latest/fonts.css">
+<style> body {
+      font-family: "Computer Modern Serif", serif;}</style>
+</head>
+
+<body style="background-color: #a2baa7">
+
+<h1> Hey Divas! </h1>
+<p> welcome to our blog! </p> 
+ <h1> News from us </h1>
+ <ul>
+ <li><a
+ href="https://commons.wikimedia.org/wiki/Commons:Featured_pictures#/media/File:Fischerkirche_(window),_Born_a._Dar%C3%9F.jpg"
+ >Home?</a></li>
+ <li>we just stole this from a wikipedia page rn</li>
+ <li> 12/8: changed the bgcolor, changed the font to the LaTeX font (computer modern my beloved) lmk what you think</li>
+ </ul>
+<img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Frank_Gehry%2C_Viljo_Revell_Centenary_reception%2C_2010_%28S2311_fl2969_it0089%29_%28cropped%29.jpg" class="mw-mmv-final-image jpg" alt="Frank Gehry in 2010" width="137" height="183">
+ 
+ <p> haiii </p>
+<h2> chapter 1: forgotton <3 </h2>
+ <img src="images/pennifer.jpg" alt ="chapter 1: forgotton" width="400" height="300">
+ 
+ <h2>Next conquest</h2>
+ <ul>
+ <li><a
+ href="https://youtu.be/G3e-cpL7ofc?si=QM62AL8VJy8imjD8"
+ >Six hours of busssss </a>
+ </li>
+ </ul>
+ </body>
+ </html>
