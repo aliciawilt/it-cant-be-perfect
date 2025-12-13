@@ -1,21 +1,8 @@
 <!DOCTYPE html> 
 <html lang="en">
 <head>
-<title>We made a web page :3</title>
-<style>
-h1{color: #ffbdb0;}
-h2{color: #7D2882;}
-p {color: #db7563;}
-li {color: #18586e;}
-a {color: #540606;}
-</style>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bitmaks/cm-web-fonts@latest/fonts.css">
-<style> body {
-      font-family: "Computer Modern Serif", serif;}</style>
 </head>
-
 <body style="background-color: #a2baa7">
-
 <h1> Hey Divas! </h1>
 <p> welcome to our blog! </p> 
  <h1> News from us </h1>
